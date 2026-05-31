@@ -29,8 +29,7 @@ Meu foco é criar soluções eficientes, escaláveis e acessíveis, aplicando te
 ### 📊 Minhas Estatísticas
 
 <p align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=felipenvd&show_icons=true&theme=radical&include_all_commits=true&count_private=true" alt="Estatísticas do GitHub" height="180px"/>
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=felipenvd&layout=compact&theme=radical" alt="Linguagens mais usadas" height="180px"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=felipenvd&theme=radical" alt="GitHub Streak Stats" height="180px"/>
 </p>
 
 ---
