@@ -6,42 +6,31 @@ Meu foco é criar soluções eficientes, escaláveis e acessíveis, aplicando te
 
 ---
 
-<table>
-  <tr>
-    <td valign="top" width="33%">
-      <h3 align="center">⚙️ FRONT-END</h3>
-      <p align="center">
-        <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" /><br><br>
-        <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
-      </p>
-    </td>
-    <td valign="top" width="33%">
-      <h3 align="center">🖥️ BACK-END</h3>
-      <p align="center">
-        <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" /><br><br>
-        <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=WMFFD4" /><br><br>
-        <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" /><br><br>
-        <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" /><br><br>
-        <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" />
-      </p>
-    </td>
-    <td valign="top" width="33%">
-      <h3 align="center">🚀 INFRA & AI</h3>
-      <p align="center">
-        <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" /><br><br>
-        <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" /><br><br>
-        <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" /><br><br>
-      </p>
-    </td>
-  </tr>
-</table>
+### 🛠️ Tecnologias e Ferramentas
+
+#### **💻 Front-end**
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![TypeScript](https://img.shields.io/badge/typescript-%23007acc.svg?style=for-the-badge&logo=typescript&logoColor=white)
+
+#### **🖥️ Back-end**
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=FastAPI&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-CC292B?style=for-the-badge&logo=postgresql&logoColor=white)
+
+#### **🛠️ Ferramentas, DevOps & AI**
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+
 ---
 
 ### 📊 Minhas Estatísticas
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=felipenvd&show_icons=true&theme=radical&include_all_commits=true&count_private=true" alt="Estatísticas do GitHub" height="180px"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=felipenvd&layout=compact&theme=radical" alt="Linguagens mais usadas" height="180px"/>
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=felipenvd&show_icons=true&theme=radical&include_all_commits=true&count_private=true" alt="Estatísticas do GitHub" height="180px"/>
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=felipenvd&layout=compact&theme=radical" alt="Linguagens mais usadas" height="180px"/>
 </p>
 
 ---
