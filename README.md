@@ -26,14 +26,6 @@ Meu foco é criar soluções eficientes, escaláveis e acessíveis, aplicando te
 
 ---
 
-### 📊 Minhas Estatísticas
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=felipenvd&theme=radical" alt="GitHub Streak Stats" height="180px"/>
-</p>
-
----
-
 ### 📬 Vamos nos conectar?
 
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](linkedin.com/in/felipe-vidal-ba4180295)
