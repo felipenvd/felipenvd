@@ -1,28 +1,26 @@
 # Olá, eu sou o Felipe Vidal 👋
 
-Sou desenvolvedor e pesquisador focado em transformar dados e código em soluções inteligentes. Minha atuação transita entre o desenvolvimento de aplicações escaláveis de ponta a ponta e a aplicação de Inteligência Artificial e Visão Computacional para a resolução de problemas complexos.
+Sou pesquisador em Inteligência Artificial e desenvolvedor de software, graduado em Sistemas de Informação pela Universidade Federal Rural da Amazônia (UFRA). Atuo no Núcleo de Pesquisas em Computação Aplicada (NPCA), desenvolvendo projetos nas áreas de Inteligência Artificial, desenvolvimento web e aplicações computacionais voltadas para problemas reais.
 
-- 🎓 Mestrando em Biotecnologia com foco em **Bioinformática Aplicada a Ciências Ômicas** (UFRA).
-- 💻 Bacharel em **Sistemas de Informação** (UFRA).
-- 🚀 Apaixonado pelo ecossistema JavaScript/TypeScript e arquiteturas baseadas em microsserviços.
+Meu foco é criar soluções eficientes, escaláveis e acessíveis, aplicando tecnologia para resolver problemas reais e gerar impacto positivo.
 
 ---
 
 ### 🛠️ Tecnologias e Ferramentas
 
-#### **Front-end & Mobile**
+#### **💻 Front-end**
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=next.js&logoColor=white)
-![React Native](https://img.shields.io/badge/React_Native-black?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![TypeScript](https://img.shields.io/badge/typescript-%23007acc.svg?style=for-the-badge&logo=typescript&logoColor=white)
 
-#### **Back-end & Banco de Dados**
+#### **🖥️ Back-end**
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=FastAPI&logoColor=white)
-![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white)
-
-#### **AI, Data Science & Infra**
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=FastAPI&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-CC292B?style=for-the-badge&logo=postgresql&logoColor=white)
+
+#### **🛠️ Ferramentas, DevOps & AI**
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
@@ -31,15 +29,14 @@ Sou desenvolvedor e pesquisador focado em transformar dados e código em soluç�
 ### 📊 Minhas Estatísticas
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO_AQUI&show_icons=true&theme=radical&include_all_commits=true&count_private=true" alt="Estatísticas do GitHub" height="180px"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO_AQUI&layout=compact&theme=radical" alt="Linguagens mais usadas" height="180px"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=felipenvd&show_icons=true&theme=radical&include_all_commits=true&count_private=true" alt="Estatísticas do GitHub" height="180px"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=felipenvd&layout=compact&theme=radical" alt="Linguagens mais usadas" height="180px"/>
 </p>
 
 ---
 
 ### 📬 Vamos nos conectar?
 
-Seja para conversar sobre desenvolvimento de software, arquitetura de APIs, inteligência artificial ou bioinformática, sinta-se à vontade para entrar em contato:
-
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/SEU_LINKEDIN_AQUI)
-[![E-mail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:seu-email@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](linkedin.com/in/felipe-vidal-ba4180295)
+[![Currículo Lattes](https://img.shields.io/badge/Currículo_Lattes-CNPq-blue?style=for-the-badge)](http://lattes.cnpq.br/8413460948125160)
+[![E-mail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](fnvidal44@gmail.com)
