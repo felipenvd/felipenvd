@@ -30,4 +30,3 @@ Meu foco é criar soluções eficientes, escaláveis e acessíveis, aplicando te
 
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](linkedin.com/in/felipe-vidal-ba4180295)
 [![Currículo Lattes](https://img.shields.io/badge/Currículo_Lattes-CNPq-blue?style=for-the-badge)](http://lattes.cnpq.br/8413460948125160)
-[![E-mail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](fnvidal44@gmail.com)
