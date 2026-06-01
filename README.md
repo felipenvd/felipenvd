@@ -1,13 +1,13 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=FF0000&center=true&vCenter=true&width=940&lines=JOSÉ+P.+%7C+FULLSTACK+DEVELOPER;SCIENTIFIC+RESEARCHER+%7C+BIOINFORMATICS;MACHINE+LEARNING+%26+DEEP+LEARNING;BUILDING+THE+DIGITAL+FUTURE" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=FF6B00&center=true&vCenter=true&width=940&lines=FELIPE+V.+%7C+DESENVOLVEDOR+FULLSTACK;PESQUISADOR+CIENT%C3%8DFICO+%7C+BIOINFORM%C3%81TICA;MACHINE+LEARNING+%26+DEEP+LEARNING" alt="Typing SVG" />
 
 </div>
 
 <div align="center">
   
-  ![Profile Views](https://komarev.com/ghpvc/?username=felipenvd&color=orange&style=for-the-badge)
-  [![GitHub Followers](https://img.shields.io/github/followers/felipenvd?style=for-the-badge&color=orange&labelColor=1a1a1a)](https://github.com/felipenvd)
+  ![Profile Views](https://komarev.com/ghpvc/?username=felipenvd&color=FF6B00&style=for-the-badge)
+  [![GitHub Followers](https://img.shields.io/github/followers/felipenvd?style=for-the-badge&color=FF6B00&labelColor=1a1a1a)](https://github.com/felipenvd)
   
 </div>
 
