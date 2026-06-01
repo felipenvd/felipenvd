@@ -1,3 +1,18 @@
+<div align="center">
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=FF0000&center=true&vCenter=true&width=940&lines=JOSÉ+P.+%7C+FULLSTACK+DEVELOPER;SCIENTIFIC+RESEARCHER+%7C+BIOINFORMATICS;MACHINE+LEARNING+%26+DEEP+LEARNING;BUILDING+THE+DIGITAL+FUTURE" alt="Typing SVG" />
+
+</div>
+
+<div align="center">
+  
+  ![Profile Views](https://komarev.com/ghpvc/?username=felipenvd&color=orange&style=for-the-badge)
+  [![GitHub Followers](https://img.shields.io/github/followers/felipenvd?style=for-the-badge&color=orange&labelColor=1a1a1a)](https://github.com/felipenvd)
+  
+</div>
+
+---
+
 # Olá, eu sou o Felipe Vidal 👋
 
 Sou pesquisador em Inteligência Artificial e desenvolvedor de software, graduado em Sistemas de Informação pela Universidade Federal Rural da Amazônia (UFRA). Atuo no Núcleo de Pesquisas em Computação Aplicada (NPCA), desenvolvendo projetos nas áreas de Inteligência Artificial, desenvolvimento web e aplicações computacionais voltadas para problemas reais.
