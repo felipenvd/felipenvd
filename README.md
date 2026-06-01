@@ -47,7 +47,7 @@ Meu foco é criar soluções eficientes, escaláveis e acessíveis, aplicando te
 
 <div align="center">
   
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=orange)](linkedin.com/in/felipe-vidal-ba4180295)
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=orange)](https://linkedin.com/in/felipe-vidal-ba4180295)
   [![ORCID](https://img.shields.io/badge/ORCID-000000?style=for-the-badge&logo=orcid&logoColor=orange)](https://orcid.org/0009-0004-9582-2978)
   [![Lattes](https://img.shields.io/badge/Lattes_CV-000000?style=for-the-badge&logo=academia&logoColor=orange)](http://lattes.cnpq.br/8413460948125160)
   [![Instagram](https://img.shields.io/badge/Instagram-000000?style=for-the-badge&logo=instagram&logoColor=orange)](https://www.instagram.com/felipenvd/)
