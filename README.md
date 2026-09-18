@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=FF6B00&center=true&vCenter=true&width=940&lines=FELIPE+V.+%7C+DESENVOLVEDOR+FULLSTACK;PESQUISADOR+%7C+BIOINFORM%C3%81TICA;MACHINE+LEARNING+%26+DEEP+LEARNING" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=FF6B00&center=true&vCenter=true&width=940&lines=FELIPE+V.+%7C+FULL-STACK+DEVELOPER;RESEARCHER+%7C+BIOINFORMATICS;MACHINE+LEARNING+%26+DEEP+LEARNING" alt="Typing SVG" />
 
 </div>
 
@@ -13,21 +13,21 @@
 
 ---
 
-# Olá, eu sou o Felipe Vidal 👋
+# Hi, I'm Felipe Vidal 👋
 
-Sou pesquisador em Inteligência Artificial e desenvolvedor de software, graduado em Sistemas de Informação pela Universidade Federal Rural da Amazônia (UFRA). Atuo no Núcleo de Pesquisas em Computação Aplicada (NPCA), desenvolvendo projetos nas áreas de Inteligência Artificial, desenvolvimento web e aplicações computacionais voltadas para problemas reais.
+I am an Artificial Intelligence researcher and software developer with a degree in Information Systems from the Federal Rural University of the Amazon (UFRA). I am also a member of the Applied Computing Research Center (NPCA), where I work on projects in Artificial Intelligence, web development, and computational applications focused on solving real-world problems.
 
-Meu foco é criar soluções eficientes, escaláveis e acessíveis, aplicando tecnologia para resolver problemas reais e gerar impacto positivo.
+My focus is on building efficient, scalable, and accessible solutions, using technology to solve real-world problems and create a positive impact.
 
 ---
 
-### <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="30"> **// Tecnologias e Ferramentas**
+### <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="30"> **// Technologies & Tools**
 
 <div align="center">
 
 #### **FRONT-END**
 <p>
-  <img src="https://skillicons.dev/icons?i=react,ts&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=react,nextjs,ts&theme=dark" />
 </p>
 
 #### **BACK-END**
@@ -35,7 +35,7 @@ Meu foco é criar soluções eficientes, escaláveis e acessíveis, aplicando te
   <img src="https://skillicons.dev/icons?i=nodejs,py,django,fastapi,postgres&theme=dark" />
 </p>
 
-#### **FERRAMENTAS, DEVOPS & AI**
+#### **TOOLS, DEVOPS & AI**
 <p>
   <img src="https://skillicons.dev/icons?i=git,docker,linux&theme=dark" />
 </p>
@@ -43,7 +43,8 @@ Meu foco é criar soluções eficientes, escaláveis e acessíveis, aplicando te
 </div>
 
 ---
-### **// 📬 Vamos no conectar?**
+
+### **// 📬 Let's Connect**
 
 <div align="center">
 
