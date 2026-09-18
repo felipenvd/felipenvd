@@ -37,7 +37,7 @@ My focus is on building efficient, scalable, and accessible solutions, using tec
 
 #### **TOOLS, DEVOPS & AI**
 <p>
-  <img src="https://skillicons.dev/icons?i=git,docker,linux&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=git,docker,linux,aws&theme=dark" />
 </p>
 
 </div>
